@@ -140,7 +140,7 @@ genetic_algorithm/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
